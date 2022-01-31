@@ -1,6 +1,6 @@
 baseURL: 'http://example.org/'
 languageCode: 'en-us'
-title: 'My New Hugo Site'
+title: 'Roman Volkov'
 theme: 'PaperMod'
 enableEmoji: true
 
@@ -8,11 +8,15 @@ minify:
     disableXML: true
 
 params:
+    homeInfoParams:
+      Title: Hi there wave
+      Content: Can be Info, links, about...
+
     env: production
-    defaultTheme: dark
+    defaultTheme: light
     disableThemeToggle: true
-    ShowShareButtons: true
-    ShowReadingTime: true
+    ShowShareButtons: false
+    ShowReadingTime: false
     displayFullLangName: true
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
