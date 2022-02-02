@@ -1,4 +1,4 @@
-baseURL = "https://romanvolkov.ru"
+baseURL = "https://romanvolkov.github.io/blog/"
 languageCode = "en-us"
 theme = "PaperMod"
 enableEmoji = true
