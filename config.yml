@@ -17,33 +17,33 @@ params:
     imageWidth: 200 # custom size
     imageHeight: 200 # custom size
 
-    env: production
-    defaultTheme: auto
-    disableThemeToggle: false
-    ShowShareButtons: false
-    ShowReadingTime: false
-    displayFullLangName: true
-    ShowPostNavLinks: true
-    ShowBreadCrumbs: true
-    ShowCodeCopyButtons: true
+  env: production
+  defaultTheme: auto
+  disableThemeToggle: false
+  ShowShareButtons: false
+  ShowReadingTime: false
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
 
-    author: "Roman Volkov"
-    comments: false
+  author: "Roman Volkov"
+  comments: false
 
 privacy:
-    vimeo:
-        disabled: true
-        simple: true
+  vimeo:
+      disabled: true
+      simple: true
 
-    twitter:
-        disabled: false
-        enableDNT: true
-        simple: true
+  twitter:
+      disabled: false
+      enableDNT: true
+      simple: true
 
-    instagram:
-        disabled: false
-        simple: true
+  instagram:
+      disabled: false
+      simple: true
 
-    youtube:
-        disabled: true
-        privacyEnhanced: true
+  youtube:
+      disabled: true
+      privacyEnhanced: true
