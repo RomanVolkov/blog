@@ -8,13 +8,18 @@ minify:
     disableXML: true
 
 params:
-    homeInfoParams:
-      Title: Hi there wave
-      Content: Can be Info, links, about...
+  profileMode:
+    enabled: true
+    title: "Roman Volkov" # optional default will be site title
+    subtitle: "This is subtitle"
+    imageUrl: "profile.png" # optional
+    imageTitle: "Roman's profile picture" # optional
+    imageWidth: 200 # custom size
+    imageHeight: 200 # custom size
 
     env: production
-    defaultTheme: light
-    disableThemeToggle: true
+    defaultTheme: auto
+    disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: false
     displayFullLangName: true
@@ -27,7 +32,7 @@ params:
 
 privacy:
     vimeo:
-        disabled: false
+        disabled: true
         simple: true
 
     twitter:
@@ -40,5 +45,5 @@ privacy:
         simple: true
 
     youtube:
-        disabled: false
+        disabled: true
         privacyEnhanced: true
