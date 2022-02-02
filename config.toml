@@ -1,0 +1,49 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Roman Volkov"
+theme = "PaperMod"
+enableEmoji = true
+
+[minify]
+disableXML = true
+
+[params]
+env = "production"
+defaultTheme = "auto"
+disableThemeToggle = false
+ShowShareButtons = false
+ShowReadingTime = false
+displayFullLangName = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+author = "Roman Volkov"
+comments = false
+
+  [params.profileMode]
+  enabled = true
+  title = "Roman Volkov"
+  subtitle = "This is subtitle"
+  imageUrl = "profile.png"
+  imageTitle = "Roman's profile picture"
+  imageWidth = 200
+  imageHeight = 200
+
+[privacy.vimeo]
+disabled = true
+simple = true
+
+[privacy.twitter]
+disabled = false
+enableDNT = true
+simple = true
+
+[privacy.instagram]
+disabled = false
+simple = true
+
+[privacy.youtube]
+disabled = true
+privacyEnhanced = true
+
+
