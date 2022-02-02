@@ -1,6 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "https://romanvolkov.ru"
 languageCode = "en-us"
-title = "Roman Volkov"
 theme = "PaperMod"
 enableEmoji = true
 
@@ -9,8 +8,8 @@ disableXML = true
 
 [params]
 env = "production"
-defaultTheme = "auto"
-disableThemeToggle = false
+defaultTheme = "dark"
+disableThemeToggle = true
 ShowShareButtons = false
 ShowReadingTime = false
 displayFullLangName = true
@@ -21,11 +20,15 @@ author = "Roman Volkov"
 comments = false
 hideFooter = true
 rtl = false
+keywords = ["blog", "page", "development", "photography"]
 
   [params.profileMode]
   enabled = true
   title = "Roman Volkov"
-  subtitle = "This is subtitle"
+  subtitle = """Hi there! Nice to meeting you. 
+
+I'm Roman - iOS developer, mobile team leader and photographer based in Moscow, Russia. Currently working at search company Yandex as mobile team leader at NLP department"""
+
   imageUrl = "profile.png"
   imageTitle = "Roman's profile picture"
   imageWidth = 200
@@ -34,6 +37,10 @@ rtl = false
   [[params.socialIcons]]
   name = "linkedin"
   url = "http://linkedin.com/in/roman-volkov/"
+
+  [[params.socialIcons]]
+  name = "telegram"
+  url = "http://t.me/romanvolkov"
 
   [[params.socialIcons]]
   name = "facebook"
