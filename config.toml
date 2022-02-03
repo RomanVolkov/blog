@@ -18,16 +18,14 @@ ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
 author = "Roman Volkov"
 comments = false
-hideFooter = true
+hideFooter = false
 rtl = false
 keywords = ["blog", "page", "development", "photography"]
 
   [params.profileMode]
   enabled = true
-  title = "Roman Volkov"
-  subtitle = """Hi there! Nice to meeting you. 
-
-I'm Roman - iOS developer, mobile team leader and photographer based in Moscow, Russia. Currently working at search company Yandex as mobile team leader at NLP department"""
+  title = "Hey, I'm Roman Volkov"
+  subtitle = """iOS developer, mobile team leader and photographer based in Moscow, Russia. Currently working at search company Yandex as mobile team leader at NLP department"""
 
   imageUrl = "profile.png"
   imageTitle = "Roman's profile picture"
