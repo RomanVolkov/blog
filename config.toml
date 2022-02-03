@@ -8,7 +8,7 @@ disableXML = true
 
 [params]
 env = "production"
-defaultTheme = "dark"
+defaultTheme = "auto"
 disableThemeToggle = true
 ShowShareButtons = false
 ShowReadingTime = false
