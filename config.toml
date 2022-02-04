@@ -20,7 +20,7 @@ author = "Roman Volkov"
 comments = false
 hideFooter = false
 rtl = false
-keywords = ["blog", "page", "development", "photography"]
+keywords = ["blog", "page", "development", "photography", "roman volkov", "роман волков"]
 
   [params.profileMode]
   enabled = true
