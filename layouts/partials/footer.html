@@ -1,10 +1,5 @@
 {{- if not (.Param "hideFooter") }}
-<footer class="footer">
-    {{- if .Site.Copyright }}
-    <span>{{ .Site.Copyright | markdownify }}</span>
-    {{- else }}
-    <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ .Site.Title }}</a></span>
-    {{- end }}
+<footer class="footer" style="font-size: 13px">
     <span>
         Made by Roman Volkov
     </span>
