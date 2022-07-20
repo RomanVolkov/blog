@@ -32,6 +32,10 @@ keywords = ["blog", "page", "development", "photography", "roman volkov", "ро�
   imageWidth = 200
   imageHeight = 200
   
+    [[params.profileMode.buttons]]
+    name = "Posts"
+    url = "posts"
+
   [[params.socialIcons]]
   name = "linkedin"
   url = "http://linkedin.com/in/roman-volkov/"
