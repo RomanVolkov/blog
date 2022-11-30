@@ -30,7 +30,7 @@ keywords = ["blog", "page", "development", "photography", "roman volkov", "ро�
   [params.profileMode]
   enabled = true
   title = "Hey, I'm Roman Volkov"
-  subtitle = """iOS developer, mobile team leader and photographer based in Moscow, Russia. Currently working at Linearity GmbH, leading Canvas intergration / Rendering team for Vectornator app"""
+  subtitle = """iOS developer, mobile team leader and photographer. Currently working at Linearity GmbH, leading Canvas intergration / Rendering team for Vectornator app"""
 
   imageUrl = "profile.png"
   imageTitle = "Roman's profile picture"
