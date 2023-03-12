@@ -11,6 +11,11 @@ name = "Posts"
 url = "posts/"
 weight = 5
 
+[[languages.en.menu.main]]
+name = "Photography"
+url = "photos/"
+weight = 5
+
 [params]
 env = "production"
 defaultTheme = "auto"
