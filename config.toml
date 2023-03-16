@@ -3,8 +3,8 @@ languageCode = "en-us"
 theme = "PaperMod"
 enableEmoji = true
 
-[minify]
-disableXML = true
+[outputs]
+  home = ["HTML", "RSS"]
 
 [[languages.en.menu.main]]
 name = "Posts"
