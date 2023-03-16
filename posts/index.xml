@@ -6,7 +6,17 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Jul 2022 23:44:35 +0300</lastBuildDate><atom:link href="https://romanvolkov.ru/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Mar 2023 22:44:35 +0300</lastBuildDate><atom:link href="https://romanvolkov.ru/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to make debugQuickLookObject work on Mac Catalyst</title>
+      <link>https://romanvolkov.ru/posts/xcode-custom-quick-look/</link>
+      <pubDate>Wed, 15 Mar 2023 22:44:35 +0300</pubDate>
+      
+      <guid>https://romanvolkov.ru/posts/xcode-custom-quick-look/</guid>
+      <description>In Vectornator we have lots of different types of elements that has to be rendered on the screen. E.g., shapes, artboards, layers and so on. And even if they are using CoreGraphics and CGPath under the hood there was still no convinient way to visualize elements during debugging. So we decided to add Quick look support for Xcode debugger.
+It&amp;rsquo;s possible to do that with implementing an objc function - debugQuickLookObject.</description>
+    </item>
+    
     <item>
       <title>Notes about remote leadership</title>
       <link>https://romanvolkov.ru/posts/notes_about_leadership/</link>
