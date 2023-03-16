@@ -1,31 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Posts on </title>
-    <link>https://romanvolkov.ru/posts/</link>
-    <description>Recent content in Posts on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 15 Mar 2023 22:44:35 +0300</lastBuildDate><atom:link href="https://romanvolkov.ru/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How to make debugQuickLookObject work on Mac Catalyst</title>
-      <link>https://romanvolkov.ru/posts/xcode-custom-quick-look/</link>
-      <pubDate>Wed, 15 Mar 2023 22:44:35 +0300</pubDate>
-      
-      <guid>https://romanvolkov.ru/posts/xcode-custom-quick-look/</guid>
-      <description>In Vectornator we have lots of different types of elements that has to be rendered on the screen. E.g., shapes, artboards, layers and so on. And even if they are using CoreGraphics and CGPath under the hood there was still no convinient way to visualize elements during debugging. So we decided to add Quick look support for Xcode debugger.
-It&amp;rsquo;s possible to do that with implementing an objc function - debugQuickLookObject.</description>
-    </item>
-    
-    <item>
-      <title>Notes about remote leadership</title>
-      <link>https://romanvolkov.ru/posts/notes_about_leadership/</link>
-      <pubDate>Tue, 19 Jul 2022 23:44:35 +0300</pubDate>
-      
-      <guid>https://romanvolkov.ru/posts/notes_about_leadership/</guid>
-      <description>Recently I have passed a course How to manage a Remote team by GitLab. And if the course covers many aspects of transition from classic office environment I was interested specificly about challanges and ways to solve them within remote teams. And I can higlight few points for myself:
-Communication is a challange. With remote team setup you don&amp;rsquo;t have ability to see that something is happening with your team member and the solution here: proactively asking how do person feel in general.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on</title><link>https://romanvolkov.ru/posts/</link><description>Recent content in Posts on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 15 Mar 2023 22:44:35 +0300</lastBuildDate><atom:link href="https://romanvolkov.ru/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>How to make debugQuickLookObject work on Mac Catalyst</title><link>https://romanvolkov.ru/posts/xcode-custom-quick-look/</link><pubDate>Wed, 15 Mar 2023 22:44:35 +0300</pubDate><guid>https://romanvolkov.ru/posts/xcode-custom-quick-look/</guid><description>In Vectornator we have lots of different types of elements that has to be rendered on the screen. E.g., shapes, artboards, layers and so on. And even if they are using CoreGraphics and CGPath under the hood there was still no convinient way to visualize elements during debugging. So we decided to add Quick look support for Xcode debugger.
+It&amp;rsquo;s possible to do that with implementing an objc function - debugQuickLookObject.</description></item><item><title>Notes about remote leadership</title><link>https://romanvolkov.ru/posts/notes_about_leadership/</link><pubDate>Tue, 19 Jul 2022 23:44:35 +0300</pubDate><guid>https://romanvolkov.ru/posts/notes_about_leadership/</guid><description>Recently I have passed a course How to manage a Remote team by GitLab. And if the course covers many aspects of transition from classic office environment I was interested specificly about challanges and ways to solve them within remote teams. And I can higlight few points for myself:
+Communication is a challange. With remote team setup you don&amp;rsquo;t have ability to see that something is happening with your team member and the solution here: proactively asking how do person feel in general.</description></item></channel></rss>
