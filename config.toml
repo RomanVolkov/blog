@@ -67,6 +67,9 @@ keywords = ["blog", "page", "development", "photography", "roman volkov", "ро�
   url = "https://instagram.com/romanvolkov"
 
 
+  [[params.socialIcons]]
+  name = "twitter"
+  url = "https:/twitter.com/_romanvolkov_"
 
 [privacy.vimeo]
 disabled = true
