@@ -71,6 +71,10 @@ keywords = ["blog", "page", "development", "photography", "roman volkov", "ро�
   name = "twitter"
   url = 'https:/twitter.com/_romanvolkov_'
 
+  [[params.socialIcons]]
+  name = "unsplash"
+  url = 'https://unsplash.com/@romanvolkov'
+
 [privacy.vimeo]
 disabled = true
 simple = true
