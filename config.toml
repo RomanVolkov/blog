@@ -50,16 +50,8 @@ keywords = ["blog", "page", "development", "photography", "roman volkov", "ро�
   url = "http://t.me/romanvolkov"
 
   [[params.socialIcons]]
-  name = "facebook"
-  url = "https://www.facebook.com/rvolkov"
-
-  [[params.socialIcons]]
   name = "github"
   url = "https://github.com/romanvolkov"
-
-  [[params.socialIcons]]
-  name = "instagram"
-  url = "https://instagram.com/romanvolkov"
 
   [[params.socialIcons]]
   name = "twitter"
