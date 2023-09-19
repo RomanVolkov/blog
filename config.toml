@@ -6,10 +6,10 @@ enableEmoji = true
 [outputs]
   home = ["HTML", "RSS"]
 
-[[languages.en.menu.main]]
-name = "Posts"
-url = "posts/"
-weight = 5
+#[[languages.en.menu.main]]
+#name = "Posts"
+#url = "posts/"
+#weight = 5
 
 [params]
 env = "production"
@@ -30,7 +30,7 @@ keywords = ["blog", "page", "development", "photography", "roman volkov", "ро�
   [params.profileMode]
   enabled = true
   title = "Hey, I'm Roman Volkov"
-  subtitle = """iOS developer, mobile team leader and photographer. Currently working at Linearity GmbH, leading Canvas integration / Rendering team for [Vectornator](https://vectornator.io/) app"""
+  subtitle = """iOS developer, Engineering manager and photographer. Currently working at Linearity GmbH as Engineering Manager, leading Canvas integration / Rendering team for [Linearity GmbH](https://linearity.io) app"""
 
   imageUrl = "profile.png"
   imageTitle = "Roman's profile picture"
@@ -61,10 +61,9 @@ keywords = ["blog", "page", "development", "photography", "roman volkov", "ро�
   name = "instagram"
   url = "https://instagram.com/romanvolkov"
 
-
   [[params.socialIcons]]
   name = "twitter"
-  url = 'https:/twitter.com/_romanvolkov_'
+  url = "https:/twitter.com/_romanvolkov_"
 
   [[params.socialIcons]]
   name = "unsplash"
