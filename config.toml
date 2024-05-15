@@ -30,7 +30,7 @@ keywords = ["blog", "page", "development", "photography", "roman volkov", "ро�
   [params.profileMode]
   enabled = true
   title = "Hey, I'm Roman Volkov"
-  subtitle = """iOS developer, Engineering manager and photographer. Currently working at Linearity GmbH as Engineering Manager, leading Canvas integration / Rendering team for [Linearity GmbH](https://linearity.io) app"""
+  subtitle = """Engineering manager and Software engineer. Currently working at Linearity GmbH as Engineering Manager, leading Rendering team for [Linearity GmbH](https://linearity.io) apps"""
 
   imageUrl = "profile.png"
   imageTitle = "Roman's profile picture"
@@ -54,12 +54,16 @@ keywords = ["blog", "page", "development", "photography", "roman volkov", "ро�
   url = "https://github.com/romanvolkov"
 
   [[params.socialIcons]]
-  name = "twitter"
-  url = "https:/twitter.com/_romanvolkov_"
-
-  [[params.socialIcons]]
   name = "unsplash"
   url = 'https://unsplash.com/@romanvolkov'
+
+  [[params.socialIcons]]
+  name = "youtube"
+  url = 'https://www.youtube.com/channel/UCwRxT_-VdAiU8ncqIPK4pCA'
+
+  [[params.socialIcons]]
+  name = "youtube"
+  url = 'https://www.youtube.com/channel/UCi1Hco_0efrqucQPbRraqbQ'
 
 [privacy.vimeo]
 disabled = true
