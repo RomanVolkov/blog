@@ -14,7 +14,7 @@ enableEmoji = true
 [params]
 env = "production"
 defaultTheme = "auto"
-disableThemeToggle = true
+disableThemeToggle = false
 ShowShareButtons = false
 ShowReadingTime = false
 displayFullLangName = true
@@ -25,12 +25,12 @@ author = "Roman Volkov"
 comments = false
 hideFooter = false
 rtl = false
-keywords = ["blog", "page", "development", "photography", "roman volkov", "роман волков"]
+keywords = ["blog", "page", "development", "youtube", "roman volkov", "роман волков"]
 
   [params.profileMode]
   enabled = true
   title = "Hey, I'm Roman Volkov"
-  subtitle = """Engineering manager and Software engineer.\nCurrently working at Linearity GmbH as Engineering Manager, leading Rendering team for [Linearity GmbH](https://linearity.io) apps"""
+  subtitle = """Engineering manager and Software engineer.\nCurrently working at Linearity GmbH as Engineering Manager, leading Rendering team"""
 
   imageUrl = "profile.png"
   imageTitle = "Roman's profile picture"
